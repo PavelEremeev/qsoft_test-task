@@ -10,7 +10,7 @@ function App() {
           <img className='header__logo'/>
           <img className='header__user-logo'/>
           <div className='header__search-container'>
-          <input className='header__search-input'>Найти...</input>
+          <input className='header__search-input'/>
           <img className='header__search-image'/>
           </div>
           <div className='header__user-profile'>
