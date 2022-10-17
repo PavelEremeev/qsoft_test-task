@@ -1,5 +1,51 @@
 @import-normalize;
 
+.header {
+
+}
+
+.header__wrapper {
+  padding-top: 25px;
+  padding-left: 20px;
+  padding-right: 20px;
+  display: flex;
+  flex-direction: row;
+}
+
+.header__logo {
+  width: 135px;
+  height: 30px;
+}
+
+.header__user-logo {
+  display: none;
+}
+
+.header__search-container {
+  display: flex;
+  margin-left: 61px;
+  margin-right: 60px;
+  justify-content: ;
+}
+
+.header__search-input {
+  width: 100%;
+  background: #FFFFFF;
+  border: 1px solid #EBEBF1;
+  border-radius: 5px;
+  outline: none;
+  color: #BBC4D6;
+  padding-left: 39px;
+}
+
+.header__search-input::placeholder {
+  
+}
+
+.header__search-image {
+
+}
+
 .partners {
   padding-top: 70px;
   padding-left: 20px;
