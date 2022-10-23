@@ -1,70 +1,18 @@
-# Getting Started with Create React App
+# QSOFT Тестовое задание на верстальщика
+Необходимо, сверстать страницу сайта, выполнив при этом все требования, указанные ниже.
+### Дизайн макет страницы:
+ https://www.figma.com/file/uy85DPXU715pD16KkshYUZ/QSOFT.-Front-end-Junior-Test-Task?node-id=1642%3A866
+### Требования к заданию:
+1) Верстка макета должна быть выполнена по методологии БЭМ.
+2) Верстка должна быть выполнена с использованием flexbox
+3) Верстка должна быть резиновой, т.е. контент должен равномерно растягиваться и занимать 100% ширины страницы в диапазоне от минимального (375px) до максимально возможного размера страницы (согласно макету 1240px)
+4) Верстка должна корректно отображаться на разрешениях от 1440px до 375px.
+5) Задание нужно выполнить в какой-либо онлайн-платформе для хранения кода (например, CodePen или CodeSandbox). 
+### Уточнение
+В качестве изображений для партнеров можно использовать ссылки на любые картинки из интернета.
+Как проверить себя:
+Убедитесь, что на в 3-х точках (375px, 768px, 1440px) ваша страница в браузере выглядит идеально точно также как в макете. Максимальная погрешность в расстояниях и размерах может быть не более 1px
+На любом разрешение внутри диапазона элементы не должны "соскакивать" со своих мест
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Мое решение:
+![background](chrome_ASdnVIuiBj.gif)
