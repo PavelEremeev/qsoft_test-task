@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/oxem_test-task/static/css/main.5ad33e6d.css",
+    "main.js": "/oxem_test-task/static/js/main.7a80bd94.js",
+    "static/js/787.6a1c05e5.chunk.js": "/oxem_test-task/static/js/787.6a1c05e5.chunk.js",
+    "static/media/321451_v2 1.svg": "/oxem_test-task/static/media/321451_v2 1.a35f2011622c064e96027e363660a230.svg",
+    "static/media/logo 1.svg": "/oxem_test-task/static/media/logo 1.203af7170e007af2cb69a8378dccf54a.svg",
+    "static/media/792px-McDonalds_logo1.svg": "/oxem_test-task/static/media/792px-McDonalds_logo1.263c988c8b29024bf474f275bcd7ad51.svg",
+    "static/media/1024px-Ikea_logo 1.svg": "/oxem_test-task/static/media/1024px-Ikea_logo 1.a020ad2ea766f1999e73e92f1ce97624.svg",
+    "static/media/CM20200219-db34e-f70d2 1.svg": "/oxem_test-task/static/media/CM20200219-db34e-f70d2 1.947997135d50dd8b153bb4acb08fc44a.svg",
+    "static/media/download 1.svg": "/oxem_test-task/static/media/download 1.c8119657223506e8729e51e85b2ecf69.svg",
+    "static/media/логотип.svg": "/oxem_test-task/static/media/логотип.beec57d54e3481251d61ea97dab947c5.svg",
+    "static/media/path5197.svg": "/oxem_test-task/static/media/path5197.8c60dd6008df20213abfa975d86725d0.svg",
+    "static/media/Vkusno_I_Tochka_symbol.svg": "/oxem_test-task/static/media/Vkusno_I_Tochka_symbol.5f876aa8966d3046a53f63bda5a45e2f.svg",
+    "static/media/Frame 10.svg": "/oxem_test-task/static/media/Frame 10.69674b199e96e73085e831bddece1bf7.svg",
+    "index.html": "/oxem_test-task/index.html",
+    "static/media/Ellipse.svg": "/oxem_test-task/static/media/Ellipse.689e6ef34922954b262131906f7f9499.svg",
+    "main.5ad33e6d.css.map": "/oxem_test-task/static/css/main.5ad33e6d.css.map",
+    "main.7a80bd94.js.map": "/oxem_test-task/static/js/main.7a80bd94.js.map",
+    "787.6a1c05e5.chunk.js.map": "/oxem_test-task/static/js/787.6a1c05e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ad33e6d.css",
+    "static/js/main.7a80bd94.js"
+  ]
+}
