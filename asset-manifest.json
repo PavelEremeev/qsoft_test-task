@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/oxem_test-task/static/css/main.5ad33e6d.css",
+    "main.css": "/oxem_test-task/static/css/main.788093f4.css",
     "main.js": "/oxem_test-task/static/js/main.7a80bd94.js",
     "static/js/787.6a1c05e5.chunk.js": "/oxem_test-task/static/js/787.6a1c05e5.chunk.js",
     "static/media/321451_v2 1.svg": "/oxem_test-task/static/media/321451_v2 1.a35f2011622c064e96027e363660a230.svg",
@@ -15,12 +15,12 @@
     "static/media/Frame 10.svg": "/oxem_test-task/static/media/Frame 10.69674b199e96e73085e831bddece1bf7.svg",
     "index.html": "/oxem_test-task/index.html",
     "static/media/Ellipse.svg": "/oxem_test-task/static/media/Ellipse.689e6ef34922954b262131906f7f9499.svg",
-    "main.5ad33e6d.css.map": "/oxem_test-task/static/css/main.5ad33e6d.css.map",
+    "main.788093f4.css.map": "/oxem_test-task/static/css/main.788093f4.css.map",
     "main.7a80bd94.js.map": "/oxem_test-task/static/js/main.7a80bd94.js.map",
     "787.6a1c05e5.chunk.js.map": "/oxem_test-task/static/js/787.6a1c05e5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ad33e6d.css",
+    "static/css/main.788093f4.css",
     "static/js/main.7a80bd94.js"
   ]
 }
